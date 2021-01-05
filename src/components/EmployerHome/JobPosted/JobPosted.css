@@ -1,0 +1,63 @@
+.jobPosted {
+  overflow: auto;
+  height: 500px;
+  padding: 20px;
+}
+
+#jobPosted {
+  width: 70%;
+  border: none;
+  background: #F9FAFC 0% 0% no-repeat padding-box;
+  margin: auto;
+}
+
+.ui.attached.segment.active.tab {
+  border: none;
+}
+
+#postNewJob {
+  background:  #F9FAFC 0% 0% no-repeat padding-box;
+  border: dashed;
+  border-width: thin;
+  text-align: center;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ui.basic.blue.button {
+  box-shadow: none !important;
+}
+.ui.basic.blue.button button:hover {
+  box-shadow: none !important;
+}
+
+.ui.card .meta, .ui.cards>.card .meta {
+    font-size: 0.8em;
+    color: rgba(0,0,0,.4);
+}
+
+#jobCardViews {
+  background: none;
+  color: rgba(0,0,0,.4);
+}
+
+#jobCardApplicants {
+  background: none;
+  color: #1675D5;
+}
+
+.post-new-job-import button {
+  width: 80%;
+}
+
+.post-new-job .ui.form .field>label {
+  margin-bottom: 10px;
+  margin-left: 3px;
+}
+
+.form-content-heading {
+  font-size: 20px;
+  font-weight: bold;
+}

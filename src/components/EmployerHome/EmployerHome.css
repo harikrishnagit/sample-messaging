@@ -1,0 +1,33 @@
+.employerHomeLayout {
+  height: 800px;
+}
+
+.ui.secondary.pointing.menu .active.item {
+  border-color: red;
+}
+
+.ui.secondary.pointing.menu .active.item:hover {
+  border-color: red;
+}
+.ui.attached.segment {
+  background: #F9FAFC;
+}
+
+.ui.secondary.pointing.menu {
+  background: #FFFFFF;
+}
+
+img.timeline.tab.image {
+  height: 32px;
+  width: 38px;
+}
+
+img.advocate.tab.image {
+  height: 32px;
+  width: 32px;
+}
+
+img.job-posted.tab.image {
+  height: 32px;
+  width: 36px;
+}

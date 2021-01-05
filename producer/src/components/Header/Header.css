@@ -1,0 +1,15 @@
+.nopadding {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.headerLayout {
+  height: 68px;
+  background: #28516A 0% 0% no-repeat padding-box;
+  box-shadow: 0px 2px 4px #0000001A;
+  opacity: 1;
+}
+.templateLayout {
+  background: #F9FAFC 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
